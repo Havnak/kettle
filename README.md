@@ -19,5 +19,3 @@ The microcontroller, transformer and SSR will be put in the base of the kettle. 
 ### PID
 Uses PID-control to have precise temperature control.
 Because of big termal mass, a PWM signal will have the same effect as a voltage regulator. 
-
-
