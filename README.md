@@ -6,11 +6,11 @@ The kettle is a wilfa rapid with 1.7L capacity.
 ### Components
 | Part                 | Type                       |
 |----------------------|----------------------------|
-| Microcontroller      | RPi Pico                   |
-| Temperature sensor   | Thermistor                 |
+| Microcontroller      | RP2040 (RPi Pico W)        |
+| Temperature sensor   | Thermistor / TSIC306       |
 | 230V to 5V step down | Phone charger 5W           |
-| Actuator             | Solid state relay 230V 10A |
-| Display              | 7 segment or LCD           |
+| Actuator             | Solid state relay 230V 16A |
+| Display              | SSD1306                    |
 | Switches             | Buttons                    |
 
 ### Layout
